@@ -1,12 +1,19 @@
-using System;
+//using System;
+//
+//namespace MyTest
+//{
+//	class Program
+//	{
+//		static void Main(string[] args)
+//		{
+//			Console.WriteLine("Hello world!");
+//		}
+//	};
+//}
 
-namespace MyTest
+using namespace std;
+
+int main()
 {
-	class Program
-	{
-		static void Main(string[] args)
-		{
-			Console.WriteLine("Hello world!");
-		}
-	};
+	cout << "Hello world!" << endl;
 }
